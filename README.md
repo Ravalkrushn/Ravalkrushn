@@ -37,11 +37,6 @@ Full-stack MERN app with Admin, Supplier & Customer flows.
 
 ---
 
-##  GitHub Stats  
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravalkrushn&show_icons=true&theme=radical)
-
----
-
 ##  About Me  
 -  MERN stack developer + UI/UX designer  
 -  Loves creating clean & modern user interfaces  
